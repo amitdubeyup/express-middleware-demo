@@ -1,4 +1,4 @@
-# express
+# express-middleware-demo
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
@@ -16,8 +16,8 @@ Fast, unopinionated, minimalist web framework
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/express.git
-cd express
+git clone https://github.com/amitdubeyup/express-middleware-demo.git
+cd express-middleware-demo
 
 # Install dependencies
 npm install
@@ -51,7 +51,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-express/
+express-middleware-demo/
 ├── package.json
 ├── .env.example
 ├── README.md
